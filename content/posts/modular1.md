@@ -1,6 +1,6 @@
 ---
 title: "Modular-1.md"
-date: 2020-08-19T00:00:00-04:00
+date: 2020-08-21T00:00:00-04:00
 draft: false
 ---
 
