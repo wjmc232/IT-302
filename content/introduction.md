@@ -7,7 +7,7 @@ Hi, a little information about myself is I go to the University of Kentucky, I a
 I am getting married this fall, and I have a twin brother that is also in the ICT program.
 <h1> Favorite games</h1>
 <ul>
-<li>Candy.</li>
-<li>Gum.</li>
-<li>Booze.</li>
+<li>Ecapse from Tarkov.</li>
+<li>World of warcraft.</li>
+<li>Fall guys.</li>
 </ul>
