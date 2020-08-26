@@ -8,7 +8,7 @@ I am getting married this fall, and I have a twin brother that is also in the IC
 
 Favorite games
 ==============
-Some of my favorite games that i have played since i built my computer are
+Some of my favorite games that i have played since I built my computer are
 
 -Ecapse from Tarkov.
 
