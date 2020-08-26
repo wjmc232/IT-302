@@ -1,5 +1,5 @@
 ---
-title: "Introduction.md"
+title: "Introduction"
 date: 2020-08-26T00:00:00-013:00
 draft: false
 ---
@@ -8,11 +8,11 @@ I am getting married this fall, and I have a twin brother that is also in the IC
 
 Favorite games
 ==============
-<p> Some of my favorite games that i have played since i built my computer are</p>
-<ul>
-<li>Ecapse from Tarkov.</li>
-<li>World of warcraft.</li>
-<li>Fall guys.</li>
-</ul>
+Some of my favorite games that i have played since i built my computer are
+
+-Ecapse from Tarkov.
+-World of warcraft.
+-Fall guys.
+
 
   
