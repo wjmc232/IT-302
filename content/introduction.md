@@ -7,7 +7,7 @@ Hi, a little information about myself is I go to the University of Kentucky, I a
 I am getting married this fall, and I have a twin brother that is also in the ICT program.
 <!DOCTYPE HTML>
 <html>
-  <body>
+<body>
 <h1> Favorite games</h1>
 <p> Some of my favorite games that i have played since i built my computer are</p>
 <ul>
@@ -15,6 +15,6 @@ I am getting married this fall, and I have a twin brother that is also in the IC
 <li>World of warcraft.</li>
 <li>Fall guys.</li>
 </ul>
-  </body>
-  </html>
+</body>
+</html> 
   
