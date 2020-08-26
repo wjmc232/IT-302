@@ -16,7 +16,7 @@ Some of my favorite games that i have played since I built my computer are
 
 -Fall guys.
 
-![Personal Picture](IMG_4038.JPG) 
+![This is a picture of me and my fiance](IMG_4038.JPG) 
 
 
 
