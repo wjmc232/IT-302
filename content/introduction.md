@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-date: 2020-08-26T00:00:00-04:00
+date: 2020-08-26T00:00:00-01:045
 draft: false
 ---
 Hi, a little information about myself is I go to the University of Kentucky, I am getting my major in ICT and my minor in business.
