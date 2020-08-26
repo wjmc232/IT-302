@@ -4,7 +4,7 @@ date: 2020-08-26T00:00:00-013:00
 draft: false
 ---
 Hi, a little information about myself is I go to the University of Kentucky, I am getting my major in ICT and my minor in business.
-I am getting married this fall, and I have a twin brother that is also in the ICT program.
+I am getting married this fall, and I have a twin brother that is also in the ICT program. I have always had a interest in computers, so over the summer i built a computer and enjoyed the entire process of building it. 
 
 Favorite games
 ==============
