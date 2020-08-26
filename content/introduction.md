@@ -5,6 +5,7 @@ draft: false
 ---
 Hi, a little information about myself is I go to the University of Kentucky, I am getting my major in ICT and my minor in business.
 I am getting married this fall, and I have a twin brother that is also in the ICT program.
+<h1> Favorite games</h1>
 <ul>
 <li>Candy.</li>
 <li>Gum.</li>
