@@ -1,5 +1,5 @@
 ---
-title: "Modular 3.md"
+title: "Modular 3"
 date: 2020-09-04T00:00:00-04:00
 draft: false
 ---
