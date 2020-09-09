@@ -22,6 +22,7 @@ It’s about making placeholder text great again. That’s what people want, the
 If Trump Ipsum weren’t my own words, perhaps I’d be dating it. Look at that text! Would anyone use that? Can you imagine that, the text of your next webpage?! I'm speaking with myself, number one, because I have a very good brain and I've said a lot of things.
 
 Despite the constant negative ipsum covfefe. You could see there was text coming out of her eyes, text coming out of her wherever. I write the best placeholder text, and I'm the biggest developer on the web by far... While that's mock-ups and this is politics, are they really so different? Trump Ipsum is calling for a total and complete shutdown of Muslim text entering your website.
+
 Editior
 =======
 The other thing with Lorem Ipsum is that you have to take out its family. Lorem Ipsum better hope that there are no "tapes" of our conversations before he starts leaking to the press! You could see there was text coming out of her eyes, text coming out of her wherever. You could see there was text coming out of her eyes, text coming out of her wherever.
