@@ -43,7 +43,7 @@ url = "/introduction/"
 [params]
 [[menu.main]]
 name = "Definition"
-weight = 2
+weight = 1
 url = "/definition/"
 
 [params]
