@@ -1,4 +1,4 @@
-title: "defintion page"
+title: "defintion"
 date: 2020-08-26T00:00:00-013:00
 draft: false
 ---
