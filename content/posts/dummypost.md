@@ -36,7 +36,7 @@ If Trump Ipsum weren’t my own words, perhaps I’d be dating it. Look at that 
 Despite the constant negative ipsum covfefe. You could see there was text coming out of her eyes, text coming out of her wherever. I write the best placeholder text, and I'm the biggest developer on the web by far... While that's mock-ups and this is politics, are they really so different? Trump Ipsum is calling for a total and complete shutdown of Muslim text entering your website.
 
 
-![This is a picture of an elephant](https://zen-swirles-589a00.netlify.app/https://github.com/wjmc232/IT-302/elephant-5495430_1920.jpg)
+![This is a picture of an elephant](https://zen-swirles-589a00.netlify.app/elephant-5495430_1920.jpg)
 
 
 
