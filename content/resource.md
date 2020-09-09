@@ -3,10 +3,8 @@ title: "Resource"
 date: 2020-08-26T00:00:00-013:00
 draft: false
 ---
-Resources 
-=========
-
-**Resource 1**
+ 
+ **Resource 1**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec ultrices tincidunt arcu non sodales. Elementum pulvinar etiam non quam lacus suspendisse faucibus. Etiam sit amet nisl purus in mollis nunc sed id. Diam quam nulla porttitor massa id neque. Tempus imperdiet nulla malesuada pellentesque elit eget gravida. Sed tempus urna et pharetra pharetra massa massa. Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Nunc vel risus commodo viverra maecenas accumsan. Varius quam quisque id diam vel quam. Vitae et leo duis ut diam. Enim nunc faucibus a pellentesque sit amet porttitor eget. Orci nulla pellentesque dignissim enim sit amet venenatis. Amet purus gravida quis blandit turpis cursus in. Auctor elit sed vulputate mi sit amet mauris. Ultrices tincidunt arcu non sodales neque. Neque aliquam vestibulum morbi blandit cursus risus at ultrices mi.
 
