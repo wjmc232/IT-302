@@ -36,9 +36,9 @@ HUGO_ENABLEGITINFO = "true"
 
 [params]
 [[menu.main]]
-name = "Introduction"
+name = "definition"
 weight = 1
-url = "/introduction/"
+url = "/defintion/"
 
 [params]
 [[menu.main]]
