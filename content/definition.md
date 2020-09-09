@@ -1,6 +1,6 @@
 ---
-title: "defintion"
-date: 2020-09-09T00:00:00-04:00
+title: "Introduction"
+date: 2020-08-26T00:00:00-013:00
 draft: false
 ---
 Hi, a little information about myself is I go to the University of Kentucky, I am getting my major in ICT and my minor in business.
@@ -17,3 +17,4 @@ Some of my favorite games that i have played since I built my computer are
 -Fall guys.
 
 ![This is a picture of me and my fiance](https://zen-swirles-589a00.netlify.app/IMG_0438.JPG)
+
