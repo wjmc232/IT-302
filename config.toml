@@ -50,7 +50,7 @@ url = "/definition/"
 [[menu.main]]
 name = "resource page"
 weight = 1
-url = "/resourcepage/" 
+url = "/resource/" 
 
 [params]
 [[menu.main]]
