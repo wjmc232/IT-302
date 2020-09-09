@@ -40,19 +40,16 @@ name = "Introduction"
 weight = 1
 url = "/introduction/"
 
-[params]
 [[menu.main]]
 name = "Definition"
 weight = 2
 url = "/definition/"
 
-[params]
 [[menu.main]]
 name = "Resource"
 weight = 3
 url = "/resource/" 
 
-[params]
 [[menu.main]]
 name = "walkthrough"
 weight = 4
