@@ -51,6 +51,6 @@ weight = 3
 url = "/resource/" 
 
 [[menu.main]]
-name = "walkthough"
+name = "walkthrough"
 weight = 4
-url = "/walkthough/"
+url = "/walkthrough/"
