@@ -3,18 +3,15 @@ title: "Resource"
 date: 2020-08-26T00:00:00-013:00
 draft: false
 ---
-Hi, a little information about myself is I go to the University of Kentucky, I am getting my major in ICT and my minor in business.
-I am getting married this fall, and I have a twin brother that is also in the ICT program. I have always had a interest in computers, so over the summer I built a computer and enjoyed the entire process of building it. 
+Resources 
+=========
 
-Favorite games
-==============
-Some of my favorite games that i have played since I built my computer are
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec ultrices tincidunt arcu non sodales. Elementum pulvinar etiam non quam lacus suspendisse faucibus. Etiam sit amet nisl purus in mollis nunc sed id. Diam quam nulla porttitor massa id neque. Tempus imperdiet nulla malesuada pellentesque elit eget gravida. Sed tempus urna et pharetra pharetra massa massa. Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Nunc vel risus commodo viverra maecenas accumsan. Varius quam quisque id diam vel quam. Vitae et leo duis ut diam. Enim nunc faucibus a pellentesque sit amet porttitor eget. Orci nulla pellentesque dignissim enim sit amet venenatis. Amet purus gravida quis blandit turpis cursus in. Auctor elit sed vulputate mi sit amet mauris. Ultrices tincidunt arcu non sodales neque. Neque aliquam vestibulum morbi blandit cursus risus at ultrices mi.
 
--Ecapse from Tarkov.
+Et ligula ullamcorper malesuada proin libero. Aenean pharetra magna ac placerat vestibulum lectus. Ultricies mi quis hendrerit dolor magna. Blandit volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque. Pellentesque nec nam aliquam sem et tortor consequat id. Feugiat pretium nibh ipsum consequat nisl vel pretium lectus. Tortor at risus viverra adipiscing at in. Ut consequat semper viverra nam. Elit scelerisque mauris pellentesque pulvinar. Enim sit amet venenatis urna cursus eget nunc. Elementum pulvinar etiam non quam lacus suspendisse faucibus interdum posuere. Morbi non arcu risus quis varius. Tortor id aliquet lectus proin nibh nisl. Maecenas sed enim ut sem viverra aliquet eget sit. Turpis massa tincidunt dui ut ornare. Nisi porta lorem mollis aliquam ut porttitor leo a diam. Tortor dignissim convallis aenean et tortor at risus viverra.
 
--World of warcraft.
+Massa vitae tortor condimentum lacinia. Enim nunc faucibus a pellentesque sit amet. Blandit volutpat maecenas volutpat blandit aliquam etiam erat. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. A pellentesque sit amet porttitor eget dolor morbi non arcu. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. Enim blandit volutpat maecenas volutpat. Risus quis varius quam quisque id diam vel. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Risus at ultrices mi tempus imperdiet. Nunc mattis enim ut tellus elementum sagittis.
 
--Fall guys.
+Elementum curabitur vitae nunc sed velit dignissim sodales. Dolor sit amet consectetur adipiscing elit duis tristique. Diam donec adipiscing tristique risus nec. Eu feugiat pretium nibh ipsum consequat nisl vel. Diam in arcu cursus euismod quis viverra. Integer eget aliquet nibh praesent tristique. Velit dignissim sodales ut eu sem. Pulvinar sapien et ligula ullamcorper malesuada proin libero nunc. Vestibulum lorem sed risus ultricies tristique. Et ligula ullamcorper malesuada proin libero nunc consequat interdum varius. Dui ut ornare lectus sit amet est placerat in egestas. Enim ut tellus elementum sagittis vitae et leo. Justo eget magna fermentum iaculis eu non diam phasellus vestibulum. Purus sit amet luctus venenatis lectus. Suspendisse in est ante in. Dui vivamus arcu felis bibendum ut tristique. Lacus sed turpis tincidunt id aliquet risus feugiat in. Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi tristique.
 
-![This is a picture of me and my fiance](https://zen-swirles-589a00.netlify.app/IMG_0438.JPG)
-
+Volutpat est velit egestas dui id. Commodo odio aenean sed adipiscing diam donec adipiscing tristique risus. Rhoncus est pellentesque elit ullamcorper. Pharetra magna ac placerat vestibulum lectus mauris. Facilisis gravida neque convallis a cras semper auctor neque vitae. Odio facilisis mauris sit amet massa vitae. Egestas sed sed risus pretium quam. Dui ut ornare lectus sit amet est placerat. Tristique senectus et netus et. Tellus elementum sagittis vitae et leo duis. Urna molestie at elementum eu facilisis sed. Dictumst quisque sagittis purus sit amet volutpat. Id faucibus nisl tincidunt eget.
