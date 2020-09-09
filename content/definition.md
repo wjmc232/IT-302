@@ -1,5 +1,5 @@
 title: "defintion"
-date: 2020-08-26T00:00:00-013:00
+date: 2020-09-09T00:00:00-04:00
 draft: false
 ---
 Hi, a little information about myself is I go to the University of Kentucky, I am getting my major in ICT and my minor in business.
