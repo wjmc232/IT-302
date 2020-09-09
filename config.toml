@@ -39,3 +39,21 @@ HUGO_ENABLEGITINFO = "true"
 name = "Introduction"
 weight = 1
 url = "/introduction/"
+
+[params]
+[[menu.main]]
+name = "annotated defeinition page"
+weight = 1
+url = "/annotateddefinitionpage/"
+
+[params]
+[[menu.main]]
+name = "resource page"
+weight = 1
+url = "/resourcepage/" 
+
+[params]
+[[menu.main]]
+name = "walkthrough"
+weight = 1
+url = "/walkthrough/"
