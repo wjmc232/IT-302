@@ -6,12 +6,15 @@ draft: false
 Administrator 
 =============
 I'm baby unicorn selfies offal, echo park kitsch iPhone af bicycle rights letterpress. Butcher biodiesel chartreuse banjo gastropub. Swag beard hella, wayfarers quinoa hot chicken snackwave knausgaard truffaut cloud bread leggings lomo fingerstache food truck
+
 Developer 
 =========
 vexillologist. Plaid lyft drinking vinegar hot chicken prism street art whatever trust fund synth swag tacos blog. Butcher lomo cronut church-key whatever man bun man braid. Taxidermy keffiyeh selvage
+
 Editor
 ======
 poke, +1 paleo deep v locavore ugh hammock crucifix palo santo church-key knausgaard. Slow-carb intelligentsia tumblr roof party
+
 Definitions
 ===========
 
