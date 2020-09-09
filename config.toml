@@ -42,7 +42,7 @@ url = "/introduction/"
 
 [params]
 [[menu.main]]
-name = "annotated definition page"
+name = "definition"
 weight = 1
 url = "/definition/"
 
