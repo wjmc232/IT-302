@@ -3,7 +3,7 @@ title: "Dummypost"
 date: 2020-08-26T00:00:00-013:00
 draft: false
 ---
-Administrators
+Administrator
 ============
 Despite the constant negative ipsum covfefe. We have so many things that we have to do better... and certainly ipsum is one of them.
 
