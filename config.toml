@@ -1,7 +1,8 @@
 baseURL = "https://zen-swirles-589a00.netlify.app/"
 languageCode = "en-us"
 title = "ICT 302"
-theme = "ananke"
+theme = "hugo-PaperMod-master"
+
 
 [build]
 publish = "public"
