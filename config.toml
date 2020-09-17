@@ -9,7 +9,8 @@ $ git clone https://github.com/vaga/hugo-theme-m10c.git themes/m10c
 
 [params]
   author = "Will McClary"
-  description = "ICT major business minor at the University of Kentucky"
+  description = "ICT major business minor at the University of Kentucky" 
+  Profile = 
 
 [build]
 publish = "public"
