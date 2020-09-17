@@ -3,7 +3,8 @@ languageCode = "en-us"
 title = "ICT 302" 
 theme = "hugo-theme-m10c-master" 
 [params]
-description = "sadkflh;aslkdfj"
+[menu.main]
+description = "Student at Univsersity of Kentucky, ICT major Business minor"
 
 [build]
 publish = "public"
