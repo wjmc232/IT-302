@@ -1,7 +1,7 @@
 baseURL = "https://zen-swirles-589a00.netlify.app/"
 languageCode = "en-us"
 title = "ICT 30897"
-theme = "hugo-theme-m10c-master" 
+theme = "ananke" 
 
 [build]
 publish = "public"
@@ -55,10 +55,6 @@ name = "Walkthrough"
 weight = 4
 url = "/walkthrough/" 
 
-[[menu.main]]
-name = "Menu"
-weight = 5
-url = "/menu/"
 
 
 
