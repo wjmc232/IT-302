@@ -37,7 +37,6 @@ HUGO_ENABLEGITINFO = "true"
 [params] 
   author = "Will McClary"
   description = "ICT major business minor at the University of Kentucky" 
-  Profile = ![This is a picture of me and my fiance](https://zen-swirles-589a00.netlify.app/IMG_0438.JPG)
 [[menu.main]]
 name = "Introduction"
 weight = 1
