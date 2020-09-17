@@ -2,6 +2,7 @@ baseURL = "https://zen-swirles-589a00.netlify.app/"
 languageCode = "en-us"
 title = "ICT 302" 
 theme = "hugo-theme-m10c-master" 
+description = "sadkflh;aslkdfj"
 
 [build]
 publish = "public"
