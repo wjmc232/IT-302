@@ -3,17 +3,6 @@ languageCode = "en-us"
 title = "ICT 302"
 theme = "hugo-theme-m10c-master" 
 
-
-
-
-[params]
-  author = "Will McClary"
-  description = "ICT major business minor at the University of Kentucky" 
-  Profile = ![This is a picture of me and my fiance](https://zen-swirles-589a00.netlify.app/IMG_0438.JPG)
-
-
-
-
 [build]
 publish = "public"
 command = "hugo --gc --minify"
@@ -65,4 +54,10 @@ url = "/resource/"
 name = "Walkthrough"
 weight = 4
 url = "/walkthrough/" 
+
+[params]
+  author = "Will McClary"
+  description = "ICT major business minor at the University of Kentucky" 
+  Profile = ![This is a picture of me and my fiance](https://zen-swirles-589a00.netlify.app/IMG_0438.JPG)
+
 
