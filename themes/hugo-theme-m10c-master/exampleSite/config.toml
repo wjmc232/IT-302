@@ -1,12 +1,12 @@
-baseURL = "https://example.com"
-title = "Your title"
+baseURL = "https://zen-swirles-589a00.netlify.app/"
+title = "ICT 302"
 themesDir = "../.."
 theme = "m10c"
 paginate = 5
 
 [params]
-  author = "John Doe"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
+  author = "Will McClary "
+  description = "University of Kentucky"
   [[params.social]]
     name = "instagram"
     url = "https://github.com/gohugoio"
