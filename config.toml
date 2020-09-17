@@ -34,7 +34,10 @@ HUGO_VERSION = "0.74.3"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-[params]
+[params] 
+  author = "Will McClary"
+  description = "ICT major business minor at the University of Kentucky" 
+  Profile = ![This is a picture of me and my fiance](https://zen-swirles-589a00.netlify.app/IMG_0438.
 [[menu.main]]
 name = "Introduction"
 weight = 1
@@ -56,8 +59,4 @@ weight = 4
 url = "/walkthrough/" 
 
 
-  author = "Will McClary"
-  description = "ICT major business minor at the University of Kentucky" 
-  Profile = ![This is a picture of me and my fiance](https://zen-swirles-589a00.netlify.app/IMG_0438.JPG)
-
-
+  
