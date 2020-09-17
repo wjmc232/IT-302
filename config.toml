@@ -41,22 +41,22 @@ Avatar =
 
 [[menu.main]]
 name = "Introduction"
-weight = 2
+weight = 1
 url = "/introduction/"
 
 [[menu.main]]
 name = "Definition"
-weight = 3
+weight = 2
 url = "/definition/"
 
 [[menu.main]]
 name = "Resource"
-weight = 4
+weight = 3
 url = "/resource/" 
 
 [[menu.main]]
 name = "Walkthrough"
-weight = 5
+weight = 4
 url = "/walkthrough/" 
 
 
