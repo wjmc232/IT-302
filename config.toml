@@ -55,6 +55,11 @@ name = "Walkthrough"
 weight = 4
 url = "/walkthrough/" 
 
+[[menu.main]]
+name = "Menu"
+weight = 5 
+url = "/menu/"
+
 
 
 
