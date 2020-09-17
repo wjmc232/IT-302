@@ -7,8 +7,8 @@ $ cd [path]
 $ git clone https://github.com/vaga/hugo-theme-m10c.git themes/m10c
 
 [params]
-  author = "Will McClary "
-  description = "University of Kentucky"
+  author = "john doe"
+  description = "University of asgard"
   [[params.social]]
     name = "instagram"
     url = "https://github.com/gohugoio"
