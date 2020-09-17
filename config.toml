@@ -36,6 +36,8 @@ HUGO_ENABLEGITINFO = "true"
 
 [params] 
 Author = "Will McClary"
+Description = "Student at the Univesity of Kentucky, ICT major and business minor.
+Avatar = 
 
 [[menu.main]]
 name = "Introduction"
