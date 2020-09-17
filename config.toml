@@ -1,8 +1,11 @@
 baseURL = "https://zen-swirles-589a00.netlify.app/"
 languageCode = "en-us"
 title = "ICT 302"
-theme = "hugo-theme-m10c-master"
+theme = "hugo-theme-m10c-master" 
 
+[params]
+  author = "Will McClary"
+  description = "ICT major business minor at the University of Kentucky"
 
 [build]
 publish = "public"
