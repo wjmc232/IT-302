@@ -40,7 +40,7 @@ HUGO_ENABLEGITINFO = "true"
   Profile = ![This is a picture of me and my fiance](https://zen-swirles-589a00.netlify.app/IMG_0438.JPG)
 [[menu.main]]
 name = "Introduction"
-weight = 1
+weight = 3
 url = "/introduction/"
 
 [[menu.main]]
@@ -50,7 +50,7 @@ url = "/definition/"
 
 [[menu.main]]
 name = "Resource"
-weight = 3
+weight = 1
 url = "/resource/" 
 
 [[menu.main]]
