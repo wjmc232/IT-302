@@ -1,6 +1,6 @@
 baseURL = "https://zen-swirles-589a00.netlify.app/"
 languageCode = "en-us"
-title = "ICT 305"
+title = "ICT 302"
 theme = "hugo-theme-m10c-master" 
 
 [build]
@@ -35,6 +35,8 @@ HUGO_VERSION = "0.74.3"
 HUGO_ENABLEGITINFO = "true"
 
 [params] 
+Author = "Will McClary"
+
 [[menu.main]]
 name = "Introduction"
 weight = 1
