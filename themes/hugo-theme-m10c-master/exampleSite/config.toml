@@ -5,10 +5,10 @@ theme = "m10c"
 paginate = 5
 
 [params]
-  author = "John Doe"
+  author = "Will McClary"
   description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
   [[params.social]]
-    name = "github"
+    name = "instagram"
     url = "https://github.com/gohugoio"
   [[params.social]]
     name = "twitter"
