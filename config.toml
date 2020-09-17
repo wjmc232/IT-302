@@ -34,11 +34,7 @@ HUGO_VERSION = "0.74.3"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-[params] 
-name = "Menu"
-weight = 1 
-url = "/menu/"
-
+[params]
 [[menu.main]]
 name = "Introduction"
 weight = 2
@@ -58,6 +54,10 @@ url = "/resource/"
 name = "Walkthrough"
 weight = 5
 url = "/walkthrough/" 
+[[menu.main]]
+name = "Menu"
+weight = 1 
+url = "/menu/"
 
 
 
