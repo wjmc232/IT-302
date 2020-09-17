@@ -4,7 +4,7 @@ title = "ICT 302"
 theme = "hugo-theme-m10c-master" 
 [params]
 description = "Student at Univsersity of Kentucky, ICT major Business minor" 
-avatar = ![This is a picture of me and my fiance](https://zen-swirles-589a00.netlify.app/IMG_0438.JPG)
+avatar = (https://zen-swirles-589a00.netlify.app/IMG_0438.JPG)
 
 [build]
 publish = "public"
