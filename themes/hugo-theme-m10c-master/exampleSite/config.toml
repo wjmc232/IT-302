@@ -1,7 +1,10 @@
 baseURL = "https://zen-swirles-589a00.netlify.app/"
 title = "ICT 302"
 theme = "m10c"
-paginate = 5
+paginate = 5 
+
+$ cd [path]
+$ git clone https://github.com/vaga/hugo-theme-m10c.git themes/m10c
 
 [params]
   author = "Will McClary "
