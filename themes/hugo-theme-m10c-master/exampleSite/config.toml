@@ -1,4 +1,4 @@
-baseURL = "https://zen-swirles-589a00.netlify.app/"
+baseURL = "/"
 title = "ICT 302"
 theme = "m10c"
 paginate = 5 
