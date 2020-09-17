@@ -5,7 +5,7 @@ theme = "m10c"
 paginate = 5
 
 [params]
-  author = "Will McClary"
+  author = "John Doe"
   description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
   [[params.social]]
     name = "instagram"
