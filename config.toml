@@ -4,7 +4,7 @@ title = "ICT 302"
 theme = "hugo-theme-m10c-master" 
 paginate = 5 
 
-$ cd themes/
+$ cd /themes
 $ git clone https://github.com/vaga/hugo-theme-m10c.git themes/m10c
 
 [params]
