@@ -10,7 +10,8 @@ $ git clone https://github.com/vaga/hugo-theme-m10c.git themes/m10c
 [params]
   author = "Will McClary"
   description = "ICT major business minor at the University of Kentucky" 
-  Profile = 
+  Profile = ![This is a picture of me and my fiance](https://zen-swirles-589a00.netlify.app/IMG_0438.JPG)
+
 
 [build]
 publish = "public"
