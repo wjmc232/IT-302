@@ -7,7 +7,7 @@ draft: false
 I can identify and define key concepts in (web) content management.
 ====================================================
 
-* This week I was able to go to W3Schools and find resources to help me code in html when I was working on the WordPress website. sadfsda
+* This week I was able to go to W3Schools and find resources to help me code in html when I was working on the WordPress website. 
 
 I can describe and compare content management systems.
 =============================================
