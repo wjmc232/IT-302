@@ -7,7 +7,7 @@ draft: false
 I can identify and define key concepts in (web) content management.
 ====================================================
 
-* This week I was able to define what it looks like to give effective feedback through the content you gave us to read 
+* This week I was able to define what it looks like to give effective feedback through the content you gave us to read safdasdf
 
 I can describe and compare content management systems.
 =============================================
